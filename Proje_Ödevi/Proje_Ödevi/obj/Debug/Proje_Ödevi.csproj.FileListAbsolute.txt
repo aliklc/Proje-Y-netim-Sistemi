@@ -1,0 +1,12 @@
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\bin\Debug\Proje_Ödevi.exe.config
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\bin\Debug\Proje_Ödevi.exe
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\bin\Debug\Proje_Ödevi.pdb
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.csproj.AssemblyReference.cache
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.Form1.resources
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.Properties.Resources.resources
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.csproj.GenerateResource.cache
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.exe
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.pdb
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.ProjeEkleme.resources
+C:\Users\money\source\repos\Proje_Ödevi\Proje_Ödevi\obj\Debug\Proje_Ödevi.GörevEkleme.resources
